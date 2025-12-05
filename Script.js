@@ -22,10 +22,3 @@
       checkWeather(searchBox.value);
     });
     
-function hello (){
-    console.log("hello world");
-}
-hello();
-he();
-
-const he = () => console.log("hello arrow");
